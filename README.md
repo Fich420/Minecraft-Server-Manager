@@ -1,4 +1,4 @@
-THIS IS A BRANCH OF Benjerman ORIGIANL. The only things edited are visual.
+This is a fork of Benjerman's original program. The only things edited are visual.
 
 
 Just place the "Minecraft Server Manager.exe" and config file in your minecraft bedrock server folder, then run it and click "Start Server" to start up your minecraft server.
